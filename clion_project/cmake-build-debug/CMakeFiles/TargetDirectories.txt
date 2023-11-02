@@ -1,0 +1,3 @@
+C:/Users/Xin/CLionProjects/MoshCourse/cmake-build-debug/CMakeFiles/MoshCourse.dir
+C:/Users/Xin/CLionProjects/MoshCourse/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Xin/CLionProjects/MoshCourse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
